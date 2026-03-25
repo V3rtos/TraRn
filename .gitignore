@@ -25,7 +25,6 @@ Thumbs.db
 
 # Project specific
 config/settings.json
-*.png
 !resources/icon.png
 
 # Logs
