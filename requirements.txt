@@ -1,0 +1,9 @@
+PyQt6>=6.4.0
+pytesseract>=0.3.10
+Pillow>=9.0.0
+deep-translator>=1.11.4
+pydbus>=0.6.0
+easyocr>=1.7.0
+PyGObject>=3.42.0
+# PaddleOCR (optional, Linux x86_64 only):
+# pip install paddlepaddle paddleocr
